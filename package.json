@@ -1,0 +1,13 @@
+{
+  "name": "308a.5modulesimportslab",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "exportES6.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
